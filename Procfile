@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/keycloak-*.jar -Dkeycloak.profile.feature.upload_scripts=enabled
